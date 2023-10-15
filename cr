@@ -1,0 +1,12 @@
+user.email=michelle.onasanya@gmail.com
+user.name=michelle-on
+user.signingkey=
+gpg.program=gpg
+commit.gpgsign=false
+tag.forcesignannotated=false
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://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@github.com/michelle-on/TaskManager-Back-end.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
